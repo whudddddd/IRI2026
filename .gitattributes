@@ -1,0 +1,4 @@
+*.for text eol=lf
+*.f90 text eol=lf
+*.dat text eol=lf
+*.asc text eol=lf

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+.idea/
+build/
+dist/
+*.egg-info/
+src/iri2026/build/
+src/iri2026/*.exe
+*.log
+*.tmp

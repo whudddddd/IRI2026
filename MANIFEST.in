@@ -1,0 +1,5 @@
+include src/iri2026/CMakeLists.txt
+graft src/iri2026/src
+graft src/iri2026/data
+include src/iri2026/*.exe
+include LICENSE
